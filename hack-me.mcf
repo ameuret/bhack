@@ -1,0 +1,378 @@
+<fotobook theme="normal" createdWithHPSVersion="6000005" useSpineLogo="1" version="3.0" totalpages="31" normalpages="26" startdatecalendarium="" productparameter="" programversion="6000005" isDataMcf="0" productvariant="pages:26" imagedir="hack-me_mcf-Dateien" savetime="2016-01-05 11:52" designStyle="" productname="ALB15" pagenaming="1">
+ <pagenumbering fontbold="0" fontitalics="0" bgcolor="#" format="0" position="0" textcolor="#000000" verticalMargin="50" margin="110" fontsize="24" fontfamily="Calibri" textstring="%">
+  <outline width="1" enabled="0"/>
+ </pagenumbering>
+ <extra>
+  <lastTextFormat fontOutlineWidth="0" fontSize="16" textAlignement="ALIGNLEFT" marginWidth="5" fontFGColor="4278190080" isBold="0" isItalic="0" hasOutline="0" fontOutlineColor="#000000" fontFamily="Calibri" isUnderlined="0"/>
+ </extra>
+ <page pagenr="0" type="fullcover">
+  <bundlesize width="4275" height="2750"/>
+  <designElementIDs layout="82069" background="201"/>
+  <background alignment="4" type="1" rotation="0" templatename="Weiss,normal,"/>
+  <background layout="1" templatename="fullcoverpage_portrait,normal"/>
+  <area top="1107" shadowAngle="135" borderenabled="0" areaAbilities="16400" shadowIntensity="128" width="2200" sizeborder="-1" colorborder="#000000" height="85" shadowWidthInMM="4" rotation="270" shadowEnabled="0" zposition="1" shadowBlurNew="5" alpha="1" areatype="textarea" left="1037" shadowDistance="50">
+   <text isSpineText="1"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html><head><meta name="qrichtext" content="1" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Calibri'; font-size:9pt; font-weight:400; font-style:normal;">
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p></body></html>]]><outline width="0" enabled="0"/>
+    <textFormat foregroundColor="4278190080" backgroundColor="0" IndentMargin="0" font="Calibri,9,-1,5,50,0,0,0,0,0" Alignment="132" VerticalIndentMargin="50"/>
+   </text>
+  </area>
+  <area top="-100" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="2190" sizeborder="-1" colorborder="#000000" height="2950" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="100" shadowBlurNew="5" alpha="1" areatype="imagearea" left="-100" shadowDistance="50">
+   <image/>
+  </area>
+  <area top="-100" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="2190" sizeborder="-1" colorborder="#000000" height="2950" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="101" shadowBlurNew="5" alpha="1" areatype="imagearea" left="2185" shadowDistance="50">
+   <image/>
+  </area>
+  <area top="2577" shadowAngle="135" borderenabled="0" areaAbilities="16464" shadowIntensity="128" width="194" sizeborder="-1" colorborder="#000000" height="50" shadowWidthInMM="4" rotation="270" shadowEnabled="0" zposition="999" shadowBlurNew="5" alpha="1" areatype="spinelogoarea" left="2039" shadowDistance="50"/>
+  <area top="200" shadowAngle="135" borderenabled="0" areaAbilities="66299" shadowIntensity="128" width="1690" sizeborder="-1" colorborder="#000000" height="550" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="1000" shadowBlurNew="5" alpha="1" areatype="textarea" left="2385" shadowDistance="50">
+   <text isSpineText="0"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html><head><meta name="qrichtext" content="1" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Calibri'; font-size:12pt; font-weight:400; font-style:normal;">
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p></body></html>]]><outline width="1" enabled="0"/>
+    <textFormat foregroundColor="4278190080" backgroundColor="0" IndentMargin="5" font="Calibri,12,-1,5,50,0,0,0,0,0" Alignment="1" VerticalIndentMargin="50"/>
+   </text>
+  </area>
+ </page>
+ <page pagenr="0" type="spine">
+  <bundlesize width="4275" height="2750"/>
+  <designElementIDs background="201"/>
+  <background alignment="4" type="1" rotation="0" templatename="Weiss,normal,"/>
+ </page>
+ <page pagenr="0" type="fullcover">
+  <bundlesize width="4275" height="2750"/>
+  <designElementIDs layout="82075" background="201"/>
+  <background alignment="4" type="1" rotation="0" templatename="Weiss,normal,"/>
+  <background layout="1" templatename="fullcoverpage_with_text_portrait,normal"/>
+ </page>
+ <page pagenr="0" type="emptypage">
+  <bundlesize width="4100" height="2700"/>
+  <designElementIDs background="201"/>
+  <background alignment="1" type="1" rotation="0" templatename="Weiss,normal,"/>
+  <area top="110" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="1830" sizeborder="-1" colorborder="#000000" height="1200" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="100" shadowBlurNew="5" alpha="1" areatype="imagearea" left="2160" shadowDistance="50">
+   <image/>
+  </area>
+  <area top="1390" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="1830" sizeborder="-1" colorborder="#000000" height="1200" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="101" shadowBlurNew="5" alpha="1" areatype="imagearea" left="2160" shadowDistance="50">
+   <image/>
+  </area>
+ </page>
+ <page pagenr="1" type="normalpage">
+  <bundlesize width="4100" height="2700"/>
+  <designElementIDs layout="49974" background="201"/>
+  <background alignment="3" type="1" rotation="0" templatename="Weiss,normal,"/>
+  <background layout="1" templatename="schema_portrait_002,normal"/>
+ </page>
+ <page pagenr="2" type="normalpage">
+  <bundlesize width="4100" height="2700"/>
+  <designElementIDs layout="49974" background="201"/>
+  <background alignment="1" type="1" rotation="0" templatename="Weiss,normal,"/>
+  <background layout="1" templatename="schema_portrait_002,normal"/>
+  <area top="110" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="51" width="1830" sizeborder="6" colorborder="#bebebe" height="1200" shadowWidthInMM="3" rotation="0" shadowEnabled="0" zposition="100" shadowBlurNew="5" alpha="1" areatype="imagearea" left="110" shadowDistance="40">
+   <image top="-171" useABK="0" scale="0.501645" left="0" filename="IMG_1881.jpeg" safeContainerLocation="persistent">
+    <relationships>
+     <relationship child="IMG_1881.jpeg" nature="RELATIONSHIP_ONE_TO_ONE_COPY" parent="E:/Users/arnaud/Pictures/Peace+Love/IMG_1881.JPG"/>
+    </relationships>
+   </image>
+  </area>
+  <area top="1390" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="1830" sizeborder="-1" colorborder="#000000" height="1200" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="101" shadowBlurNew="5" alpha="1" areatype="imagearea" left="110" shadowDistance="50">
+   <image/>
+  </area>
+  <area top="110" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="1830" sizeborder="-1" colorborder="#000000" height="1200" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="102" shadowBlurNew="5" alpha="1" areatype="imagearea" left="2160" shadowDistance="50">
+   <image/>
+  </area>
+  <area top="1390" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="1830" sizeborder="-1" colorborder="#000000" height="1200" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="103" shadowBlurNew="5" alpha="1" areatype="imagearea" left="2160" shadowDistance="50">
+   <image/>
+  </area>
+ </page>
+ <page pagenr="3" type="normalpage">
+  <bundlesize width="4100" height="2700"/>
+  <designElementIDs layout="49974" background="201"/>
+  <background alignment="3" type="1" rotation="0" templatename="Weiss,normal,"/>
+  <background layout="1" templatename="schema_portrait_002,normal"/>
+ </page>
+ <page pagenr="4" type="normalpage">
+  <bundlesize width="4100" height="2700"/>
+  <designElementIDs layout="49974" background="201"/>
+  <background alignment="1" type="1" rotation="0" templatename="Weiss,normal,"/>
+  <background layout="1" templatename="schema_portrait_002,normal"/>
+  <area top="110" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="1830" sizeborder="-1" colorborder="#000000" height="1200" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="100" shadowBlurNew="5" alpha="1" areatype="imagearea" left="110" shadowDistance="50">
+   <image/>
+  </area>
+  <area top="1390" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="1830" sizeborder="-1" colorborder="#000000" height="1200" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="101" shadowBlurNew="5" alpha="1" areatype="imagearea" left="110" shadowDistance="50">
+   <image/>
+  </area>
+  <area top="110" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="1830" sizeborder="-1" colorborder="#000000" height="1200" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="102" shadowBlurNew="5" alpha="1" areatype="imagearea" left="2160" shadowDistance="50">
+   <image/>
+  </area>
+  <area top="1390" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="1830" sizeborder="-1" colorborder="#000000" height="1200" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="103" shadowBlurNew="5" alpha="1" areatype="imagearea" left="2160" shadowDistance="50">
+   <image/>
+  </area>
+ </page>
+ <page pagenr="5" type="normalpage">
+  <bundlesize width="4100" height="2700"/>
+  <designElementIDs layout="49974" background="201"/>
+  <background alignment="3" type="1" rotation="0" templatename="Weiss,normal,"/>
+  <background layout="1" templatename="schema_portrait_002,normal"/>
+ </page>
+ <page pagenr="6" type="normalpage">
+  <bundlesize width="4100" height="2700"/>
+  <designElementIDs layout="49974" background="201"/>
+  <background alignment="1" type="1" rotation="0" templatename="Weiss,normal,"/>
+  <background layout="1" templatename="schema_portrait_002,normal"/>
+  <area top="110" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="1830" sizeborder="-1" colorborder="#000000" height="1200" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="100" shadowBlurNew="5" alpha="1" areatype="imagearea" left="110" shadowDistance="50">
+   <image/>
+  </area>
+  <area top="1390" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="1830" sizeborder="-1" colorborder="#000000" height="1200" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="101" shadowBlurNew="5" alpha="1" areatype="imagearea" left="110" shadowDistance="50">
+   <image/>
+  </area>
+  <area top="110" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="1830" sizeborder="-1" colorborder="#000000" height="1200" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="102" shadowBlurNew="5" alpha="1" areatype="imagearea" left="2160" shadowDistance="50">
+   <image/>
+  </area>
+  <area top="1390" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="1830" sizeborder="-1" colorborder="#000000" height="1200" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="103" shadowBlurNew="5" alpha="1" areatype="imagearea" left="2160" shadowDistance="50">
+   <image/>
+  </area>
+ </page>
+ <page pagenr="7" type="normalpage">
+  <bundlesize width="4100" height="2700"/>
+  <designElementIDs layout="49974" background="201"/>
+  <background alignment="3" type="1" rotation="0" templatename="Weiss,normal,"/>
+  <background layout="1" templatename="schema_portrait_002,normal"/>
+ </page>
+ <page pagenr="8" type="normalpage">
+  <bundlesize width="4100" height="2700"/>
+  <designElementIDs layout="49974" background="201"/>
+  <background alignment="1" type="1" rotation="0" templatename="Weiss,normal,"/>
+  <background layout="1" templatename="schema_portrait_002,normal"/>
+  <area top="110" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="1830" sizeborder="-1" colorborder="#000000" height="1200" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="100" shadowBlurNew="5" alpha="1" areatype="imagearea" left="110" shadowDistance="50">
+   <image/>
+  </area>
+  <area top="1390" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="1830" sizeborder="-1" colorborder="#000000" height="1200" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="101" shadowBlurNew="5" alpha="1" areatype="imagearea" left="110" shadowDistance="50">
+   <image/>
+  </area>
+  <area top="110" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="1830" sizeborder="-1" colorborder="#000000" height="1200" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="102" shadowBlurNew="5" alpha="1" areatype="imagearea" left="2160" shadowDistance="50">
+   <image/>
+  </area>
+  <area top="1390" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="1830" sizeborder="-1" colorborder="#000000" height="1200" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="103" shadowBlurNew="5" alpha="1" areatype="imagearea" left="2160" shadowDistance="50">
+   <image/>
+  </area>
+ </page>
+ <page pagenr="9" type="normalpage">
+  <bundlesize width="4100" height="2700"/>
+  <designElementIDs layout="49974" background="201"/>
+  <background alignment="3" type="1" rotation="0" templatename="Weiss,normal,"/>
+  <background layout="1" templatename="schema_portrait_002,normal"/>
+ </page>
+ <page pagenr="10" type="normalpage">
+  <bundlesize width="4100" height="2700"/>
+  <designElementIDs layout="49974" background="201"/>
+  <background alignment="1" type="1" rotation="0" templatename="Weiss,normal,"/>
+  <background layout="1" templatename="schema_portrait_002,normal"/>
+  <area top="110" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="1830" sizeborder="-1" colorborder="#000000" height="1200" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="100" shadowBlurNew="5" alpha="1" areatype="imagearea" left="110" shadowDistance="50">
+   <image/>
+  </area>
+  <area top="1390" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="1830" sizeborder="-1" colorborder="#000000" height="1200" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="101" shadowBlurNew="5" alpha="1" areatype="imagearea" left="110" shadowDistance="50">
+   <image/>
+  </area>
+  <area top="110" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="1830" sizeborder="-1" colorborder="#000000" height="1200" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="102" shadowBlurNew="5" alpha="1" areatype="imagearea" left="2160" shadowDistance="50">
+   <image/>
+  </area>
+  <area top="1390" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="1830" sizeborder="-1" colorborder="#000000" height="1200" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="103" shadowBlurNew="5" alpha="1" areatype="imagearea" left="2160" shadowDistance="50">
+   <image/>
+  </area>
+ </page>
+ <page pagenr="11" type="normalpage">
+  <bundlesize width="4100" height="2700"/>
+  <designElementIDs layout="49974" background="201"/>
+  <background alignment="3" type="1" rotation="0" templatename="Weiss,normal,"/>
+  <background layout="1" templatename="schema_portrait_002,normal"/>
+ </page>
+ <page pagenr="12" type="normalpage">
+  <bundlesize width="4100" height="2700"/>
+  <designElementIDs layout="49974" background="201"/>
+  <background alignment="1" type="1" rotation="0" templatename="Weiss,normal,"/>
+  <background layout="1" templatename="schema_portrait_002,normal"/>
+  <area top="110" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="1830" sizeborder="-1" colorborder="#000000" height="1200" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="100" shadowBlurNew="5" alpha="1" areatype="imagearea" left="110" shadowDistance="50">
+   <image/>
+  </area>
+  <area top="1390" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="1830" sizeborder="-1" colorborder="#000000" height="1200" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="101" shadowBlurNew="5" alpha="1" areatype="imagearea" left="110" shadowDistance="50">
+   <image/>
+  </area>
+  <area top="110" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="1830" sizeborder="-1" colorborder="#000000" height="1200" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="102" shadowBlurNew="5" alpha="1" areatype="imagearea" left="2160" shadowDistance="50">
+   <image/>
+  </area>
+  <area top="1390" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="1830" sizeborder="-1" colorborder="#000000" height="1200" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="103" shadowBlurNew="5" alpha="1" areatype="imagearea" left="2160" shadowDistance="50">
+   <image/>
+  </area>
+ </page>
+ <page pagenr="13" type="normalpage">
+  <bundlesize width="4100" height="2700"/>
+  <designElementIDs layout="49974" background="201"/>
+  <background alignment="3" type="1" rotation="0" templatename="Weiss,normal,"/>
+  <background layout="1" templatename="schema_portrait_002,normal"/>
+ </page>
+ <page pagenr="14" type="normalpage">
+  <bundlesize width="4100" height="2700"/>
+  <designElementIDs layout="49974" background="201"/>
+  <background alignment="1" type="1" rotation="0" templatename="Weiss,normal,"/>
+  <background layout="1" templatename="schema_portrait_002,normal"/>
+  <area top="110" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="1830" sizeborder="-1" colorborder="#000000" height="1200" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="100" shadowBlurNew="5" alpha="1" areatype="imagearea" left="110" shadowDistance="50">
+   <image/>
+  </area>
+  <area top="1390" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="1830" sizeborder="-1" colorborder="#000000" height="1200" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="101" shadowBlurNew="5" alpha="1" areatype="imagearea" left="110" shadowDistance="50">
+   <image/>
+  </area>
+  <area top="110" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="1830" sizeborder="-1" colorborder="#000000" height="1200" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="102" shadowBlurNew="5" alpha="1" areatype="imagearea" left="2160" shadowDistance="50">
+   <image/>
+  </area>
+  <area top="1390" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="1830" sizeborder="-1" colorborder="#000000" height="1200" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="103" shadowBlurNew="5" alpha="1" areatype="imagearea" left="2160" shadowDistance="50">
+   <image/>
+  </area>
+ </page>
+ <page pagenr="15" type="normalpage">
+  <bundlesize width="4100" height="2700"/>
+  <designElementIDs layout="49974" background="201"/>
+  <background alignment="3" type="1" rotation="0" templatename="Weiss,normal,"/>
+  <background layout="1" templatename="schema_portrait_002,normal"/>
+ </page>
+ <page pagenr="16" type="normalpage">
+  <bundlesize width="4100" height="2700"/>
+  <designElementIDs layout="49974" background="201"/>
+  <background alignment="1" type="1" rotation="0" templatename="Weiss,normal,"/>
+  <background layout="1" templatename="schema_portrait_002,normal"/>
+  <area top="110" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="1830" sizeborder="-1" colorborder="#000000" height="1200" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="100" shadowBlurNew="5" alpha="1" areatype="imagearea" left="110" shadowDistance="50">
+   <image/>
+  </area>
+  <area top="1390" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="1830" sizeborder="-1" colorborder="#000000" height="1200" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="101" shadowBlurNew="5" alpha="1" areatype="imagearea" left="110" shadowDistance="50">
+   <image/>
+  </area>
+  <area top="110" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="1830" sizeborder="-1" colorborder="#000000" height="1200" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="102" shadowBlurNew="5" alpha="1" areatype="imagearea" left="2160" shadowDistance="50">
+   <image/>
+  </area>
+  <area top="1390" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="1830" sizeborder="-1" colorborder="#000000" height="1200" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="103" shadowBlurNew="5" alpha="1" areatype="imagearea" left="2160" shadowDistance="50">
+   <image/>
+  </area>
+ </page>
+ <page pagenr="17" type="normalpage">
+  <bundlesize width="4100" height="2700"/>
+  <designElementIDs layout="49974" background="201"/>
+  <background alignment="3" type="1" rotation="0" templatename="Weiss,normal,"/>
+  <background layout="1" templatename="schema_portrait_002,normal"/>
+ </page>
+ <page pagenr="18" type="normalpage">
+  <bundlesize width="4100" height="2700"/>
+  <designElementIDs layout="49974" background="201"/>
+  <background alignment="1" type="1" rotation="0" templatename="Weiss,normal,"/>
+  <background layout="1" templatename="schema_portrait_002,normal"/>
+  <area top="110" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="1830" sizeborder="-1" colorborder="#000000" height="1200" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="104" shadowBlurNew="5" alpha="1" areatype="imagearea" left="110" shadowDistance="50">
+   <image/>
+  </area>
+  <area top="1390" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="1830" sizeborder="-1" colorborder="#000000" height="1200" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="105" shadowBlurNew="5" alpha="1" areatype="imagearea" left="110" shadowDistance="50">
+   <image/>
+  </area>
+  <area top="110" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="1830" sizeborder="-1" colorborder="#000000" height="1200" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="106" shadowBlurNew="5" alpha="1" areatype="imagearea" left="2160" shadowDistance="50">
+   <image/>
+  </area>
+  <area top="1390" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="1830" sizeborder="-1" colorborder="#000000" height="1200" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="107" shadowBlurNew="5" alpha="1" areatype="imagearea" left="2160" shadowDistance="50">
+   <image/>
+  </area>
+ </page>
+ <page pagenr="19" type="normalpage">
+  <bundlesize width="4100" height="2700"/>
+  <designElementIDs layout="49974" background="201"/>
+  <background alignment="3" type="1" rotation="0" templatename="Weiss,normal,"/>
+  <background layout="1" templatename="schema_portrait_002,normal"/>
+ </page>
+ <page pagenr="20" type="normalpage">
+  <bundlesize width="4100" height="2700"/>
+  <designElementIDs layout="49974" background="201"/>
+  <background alignment="1" type="1" rotation="0" templatename="Weiss,normal,"/>
+  <background layout="1" templatename="schema_portrait_002,normal"/>
+  <area top="110" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="1830" sizeborder="-1" colorborder="#000000" height="1200" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="104" shadowBlurNew="5" alpha="1" areatype="imagearea" left="110" shadowDistance="50">
+   <image/>
+  </area>
+  <area top="1390" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="1830" sizeborder="-1" colorborder="#000000" height="1200" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="105" shadowBlurNew="5" alpha="1" areatype="imagearea" left="110" shadowDistance="50">
+   <image/>
+  </area>
+  <area top="110" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="1830" sizeborder="-1" colorborder="#000000" height="1200" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="106" shadowBlurNew="5" alpha="1" areatype="imagearea" left="2160" shadowDistance="50">
+   <image/>
+  </area>
+  <area top="1390" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="1830" sizeborder="-1" colorborder="#000000" height="1200" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="107" shadowBlurNew="5" alpha="1" areatype="imagearea" left="2160" shadowDistance="50">
+   <image/>
+  </area>
+ </page>
+ <page pagenr="21" type="normalpage">
+  <bundlesize width="4100" height="2700"/>
+  <designElementIDs layout="49974" background="201"/>
+  <background alignment="3" type="1" rotation="0" templatename="Weiss,normal,"/>
+  <background layout="1" templatename="schema_portrait_002,normal"/>
+ </page>
+ <page pagenr="22" type="normalpage">
+  <bundlesize width="4100" height="2700"/>
+  <designElementIDs layout="49974" background="201"/>
+  <background alignment="1" type="1" rotation="0" templatename="Weiss,normal,"/>
+  <background layout="1" templatename="schema_portrait_002,normal"/>
+  <area top="110" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="1830" sizeborder="-1" colorborder="#000000" height="1200" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="104" shadowBlurNew="5" alpha="1" areatype="imagearea" left="110" shadowDistance="50">
+   <image/>
+  </area>
+  <area top="1390" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="1830" sizeborder="-1" colorborder="#000000" height="1200" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="105" shadowBlurNew="5" alpha="1" areatype="imagearea" left="110" shadowDistance="50">
+   <image/>
+  </area>
+  <area top="110" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="1830" sizeborder="-1" colorborder="#000000" height="1200" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="106" shadowBlurNew="5" alpha="1" areatype="imagearea" left="2160" shadowDistance="50">
+   <image/>
+  </area>
+  <area top="1390" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="1830" sizeborder="-1" colorborder="#000000" height="1200" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="107" shadowBlurNew="5" alpha="1" areatype="imagearea" left="2160" shadowDistance="50">
+   <image/>
+  </area>
+ </page>
+ <page pagenr="23" type="normalpage">
+  <bundlesize width="4100" height="2700"/>
+  <designElementIDs layout="49974" background="201"/>
+  <background alignment="3" type="1" rotation="0" templatename="Weiss,normal,"/>
+  <background layout="1" templatename="schema_portrait_002,normal"/>
+ </page>
+ <page pagenr="24" type="normalpage">
+  <bundlesize width="4100" height="2700"/>
+  <designElementIDs layout="49974" background="201"/>
+  <background alignment="1" type="1" rotation="0" templatename="Weiss,normal,"/>
+  <background layout="1" templatename="schema_portrait_002,normal"/>
+  <area top="110" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="1830" sizeborder="-1" colorborder="#000000" height="1200" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="104" shadowBlurNew="5" alpha="1" areatype="imagearea" left="110" shadowDistance="50">
+   <image/>
+  </area>
+  <area top="1390" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="1830" sizeborder="-1" colorborder="#000000" height="1200" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="105" shadowBlurNew="5" alpha="1" areatype="imagearea" left="110" shadowDistance="50">
+   <image/>
+  </area>
+  <area top="110" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="1830" sizeborder="-1" colorborder="#000000" height="1200" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="106" shadowBlurNew="5" alpha="1" areatype="imagearea" left="2160" shadowDistance="50">
+   <image/>
+  </area>
+  <area top="1390" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="1830" sizeborder="-1" colorborder="#000000" height="1200" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="107" shadowBlurNew="5" alpha="1" areatype="imagearea" left="2160" shadowDistance="50">
+   <image/>
+  </area>
+ </page>
+ <page pagenr="25" type="normalpage">
+  <bundlesize width="4100" height="2700"/>
+  <designElementIDs layout="49974" background="201"/>
+  <background alignment="3" type="1" rotation="0" templatename="Weiss,normal,"/>
+  <background layout="1" templatename="schema_portrait_002,normal"/>
+ </page>
+ <page pagenr="26" type="normalpage">
+  <bundlesize width="4100" height="2700"/>
+  <designElementIDs layout="49974" background="201"/>
+  <background alignment="1" type="1" rotation="0" templatename="Weiss,normal,"/>
+  <background layout="1" templatename="schema_portrait_002,normal"/>
+  <area top="110" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="1830" sizeborder="-1" colorborder="#000000" height="1200" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="100" shadowBlurNew="5" alpha="1" areatype="imagearea" left="110" shadowDistance="50">
+   <image/>
+  </area>
+  <area top="1390" shadowAngle="135" borderenabled="0" areaAbilities="114687" shadowIntensity="128" width="1830" sizeborder="-1" colorborder="#000000" height="1200" shadowWidthInMM="4" rotation="0" shadowEnabled="0" zposition="101" shadowBlurNew="5" alpha="1" areatype="imagearea" left="110" shadowDistance="50">
+   <image/>
+  </area>
+ </page>
+ <page pagenr="0" type="emptypage">
+  <bundlesize width="4100" height="2700"/>
+  <designElementIDs background="201"/>
+  <background alignment="3" type="1" rotation="0" templatename="Weiss,normal,"/>
+ </page>
+ <userfeedback></userfeedback>
+ <statistics sessionsUsed="1" countPauses="0" elapsedTimeGross="2016-01-05T11:48:53" elapsedTimeNet="227" pauseTime="0" fotosAdded="1" fotosRemoved="0" assistantUsed="0"/>
+</fotobook>
